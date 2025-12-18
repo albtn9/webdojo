@@ -1,0 +1,48 @@
+{
+  "person": {
+    "name": "Fernando Papaco",
+    "email": "papito@email.com",
+    "phone": "11 9999-1000",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "656.025.300-70",
+    "discoveryChannels": [
+      "Instagram",
+      "YouTube",
+      "LinkedIn",
+      "Indicação de Amigo",
+      "Udemy"
+    ],
+    "file": "./cypress/fixtures/1.pdf",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIO",
+      "Pytest"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Tech Solutions LTDA",
+    "email": "contato@techsolutions.com",
+    "phone": "11 9888-2222",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "45.987.321/0001-56",
+    "discoveryChannels": [
+      "LinkedIn",
+      "Udemy",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/1.pdf",
+    "description": "Consultoria empresarial voltada para automação de testes e qualidade de software.",
+    "techs": [
+      "Playwright",
+      "Cypress",
+      "Jest",
+      "Postman"
+    ],
+    "terms": true
+  }
+}
